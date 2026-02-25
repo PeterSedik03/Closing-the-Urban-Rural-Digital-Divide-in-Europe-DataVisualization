@@ -1,4 +1,4 @@
-# Closing the Urban–Rural Digital Divide in Europe
+# Closing the Urban–Rural Digital Divide in Europe (DataVisualization)
 
 This project was developed as part of a Data Visualization assignment during my MSc studies.  
 The objective is to analyze territorial inequalities in household internet access across Europe, with a focus on the urban–rural digital divide.
